@@ -1,0 +1,16 @@
+/**
+ * Created by IisDean on 2018/8/23.
+ */
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.page-container {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    background-image: url('../Image/index_bg.jpg');
+    background-size: cover;
+    background-position: center center;
+}
